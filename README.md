@@ -1,4 +1,4 @@
-![MasterHead](https://blockchainsimplified.com/blog/a-complete-beginners-guide-for-android-app-development/android-app-development-steps.jpg)
+![MasterHead](https://www.researchgate.net/publication/276129115/figure/fig5/AS:478102880034825@1491000017731/Mobile-Application-Development-Lifecycle-MADLC-15.png)
 <h1 align="center">Hi 👋, I'm Arbaz Ali</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Androiddev" width="400"src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif"
