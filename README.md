@@ -1,6 +1,6 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSNwvBcYo0zOXxUiyNa9gf568_cU8sbawhw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Arbaz Ali</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Androiddev" width="400"src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif"
 
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Travel Pass || Food Ninja**
 
-- 🌱 I’m currently learning **Android,DSA**
+- 🌱 I’m currently learning **Android,DSA,full stack**
 
-- 💬 Ask me about **Android(Kotlin || OOPS || Firebase || XML || Dependency Injection),DSA(C++)**
+- 💬 Ask me about **Android(Kotlin || OOPS || Firebase || XML || Dependency Injection),FULL Stack(MEARN),DSA(C++)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
