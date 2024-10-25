@@ -1,7 +1,9 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSNwvBcYo0zOXxUiyNa9gf568_cU8sbawhw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Arbaz Ali</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Androiddev" width="400"src="https://cdn.dribbble.com/users/3164336/screenshots/10777934/media/a43ba34be991695b2ac0e4475d913d17.gif"
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbaz001&label=Profile%20views&color=0e75b6&style=flat" alt="arbaz001" /> </p>
