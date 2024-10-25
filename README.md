@@ -1,4 +1,3 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSNwvBcYo0zOXxUiyNa9gf568_cU8sbawhw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Arbaz Ali</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="center">
