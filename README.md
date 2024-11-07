@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **MERN**
 
-💬 Ask me about **Node.js, React, Firebase...
+💬 Ask me about **Android Dev,Node.js, React, Firebase...**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -27,7 +27,7 @@
   <a href="arbazligl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/arbaz-ali-b49988251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://arbaz001.github.io" target="_blank">
