@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **MERN**
 
-💬 Ask me about **Android Dev,Node.js, React, Firebase...**
+💬 Ask me about **Android Dev,Node.js, React, Next.js...**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,javascript,typescript,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,kotlin,javascript,typescript,python" />
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,npm,nodejs,express,redux,nginx,graphql" />
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,firebase,mongodb,prisma,postman,figma,git,github,powershell" /><br>
 </div>
