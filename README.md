@@ -37,23 +37,26 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,kotlin,javascript,typescript,python" />
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,npm,nodejs,express,redux,nginx,graphql" />
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,firebase,mongodb,prisma,postman,figma,git,github,powershell" /><br>
-</div>
+<h2>Languages</h2>
 
-<br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arbaz001&count_private=true&theme=react&border_radius=10" alt="Arbaz001"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=arbaz001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Arbaz001" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arbaz001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Arbaz001" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,cpp,c,kotlin)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,firebase)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=git,docker,github,githubactions,postman,figma)](https://skillicons.dev)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arbaz001&show_icons=true&locale=en&layout=compact" alt="Arbaz001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arbaz001&show_icons=true&locale=en" alt="Arbaz001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaz001&" alt="Arbaz001" /></p>
 
 
