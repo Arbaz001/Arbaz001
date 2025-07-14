@@ -51,7 +51,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=npm,powershell,git,docker,redis,github,githubactions,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,powershell,git,docker,redis,sequelize,github,githubactions,postman,figma)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arbaz001&show_icons=true&locale=en&layout=compact" alt="Arbaz001" /></p>
 
