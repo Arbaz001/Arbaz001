@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/Arbaz001/Arbaz001/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 
