@@ -19,8 +19,6 @@
 
 💬 Ask me about **Backend Development,Node.js, React, Next.js...**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
