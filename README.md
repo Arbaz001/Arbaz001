@@ -51,4 +51,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=npm,powershell,git,docker,redis,sequelize,github,githubactions,postman,figma)](https://skillicons.dev)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbaz001&theme=github_dark" alt="Arbaz001's GitHub Stats"/>
+
+
 
