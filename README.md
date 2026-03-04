@@ -45,7 +45,7 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,firebase,digitalocean,supabase)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
