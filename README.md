@@ -37,11 +37,11 @@
  
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,cpp,c,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,cpp,c,kotlin,dart)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss,flutter)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
